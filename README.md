@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Meeting Minutes Scoring and Text Extraction Tool
 
 This project is designed to extract text from PDF documents and score meeting minutes based on predefined criteria. It utilizes Tesseract OCR for text extraction and a web crawler for scraping relevant URLs.
